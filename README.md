@@ -12,7 +12,7 @@ package main
 import (
     "fmt"
     
-    "github.com/liamg/iamgo"
+    "github.com/aquasecurity/iamgo"
 )
 
 func main() {

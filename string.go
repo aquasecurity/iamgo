@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/liamg/jfather"
+	"github.com/aquasecurity/jfather"
 )
 
 type String struct {

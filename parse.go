@@ -3,7 +3,7 @@ package iamgo
 import (
 	"net/url"
 
-	"github.com/liamg/jfather"
+	"github.com/aquasecurity/jfather"
 )
 
 func Parse(policy []byte) (*Document, error) {

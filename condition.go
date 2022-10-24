@@ -3,7 +3,7 @@ package iamgo
 import (
 	"encoding/json"
 
-	"github.com/liamg/jfather"
+	"github.com/aquasecurity/jfather"
 )
 
 type Conditions struct {

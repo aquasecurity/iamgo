@@ -1,6 +1,6 @@
 package iamgo
 
-import "github.com/liamg/jfather"
+import "github.com/aquasecurity/jfather"
 
 type Bool struct {
 	inner bool
